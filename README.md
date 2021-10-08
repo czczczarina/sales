@@ -1,4 +1,5 @@
-# database
+# this is for PHP Developer Trial Project
+
 CREATE TABLE `test`.`products` (
   `id` INT UNSIGNED NOT NULL AUTO_INCREMENT,
   `name` VARCHAR(200) NULL,
